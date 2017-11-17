@@ -1,0 +1,5 @@
+PRINT "some string literal";
+PRINT 3 + 3.4;
+a# = 3 + 4;
+BAD_TOKEN;
+

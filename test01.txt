@@ -1,0 +1,11 @@
+str$ = "beginning the program";
+PRINT str$;
+a% = 3.3;
+b# = 4;
+c% = a% + b#;
+d% = c% ^ 2;
+PRINT "decrementing c";
+c% = c% - 1;
+PRINT b# / 2;
+e# = ( 2 + 2 ) / 4;
+PRINT e#;
