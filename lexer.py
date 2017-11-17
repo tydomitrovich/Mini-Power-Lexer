@@ -1,4 +1,11 @@
-#TODO: FIX BUG
+"""
+Mini-Power-Lexer
+
+A simple lexer that takes in a Mini-Power program and outputs a list of tokens
+
+Tyler Domitrovich (domitrovicht@spu.edu)
+Last Modified: November 2017
+"""
 
 import re
 import sys
